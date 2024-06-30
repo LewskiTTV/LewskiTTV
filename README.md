@@ -4,7 +4,7 @@
 - 👀 I can use languages like HTML and CSS 👀
 - 💞️ I’m looking to collaborate on ... 💞️
 - 📫 How to reach me lewski2006@gmail.com 📫
-- 🤑 I can create a website for you for a fee 🤑
+- 🤑 I can create a python script for you for a fee 🤑
 
 <!---
 LewskiTTV/LewskiTTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
